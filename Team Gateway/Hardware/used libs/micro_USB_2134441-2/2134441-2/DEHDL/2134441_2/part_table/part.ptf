@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2134441_2'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "2134441-2" (!) = "", "21344412", "Other", "571-2134441-2", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2134441-2?qs=kAqyOuzYGe%252Bz%252BAPK%2FThl2g%3D%3D", "2134441-2", "https://www.arrow.com/en/products/2134441-2/te-connectivity?region=nac", "Body Features: Offset .88 MM | Shell Plating Material Tin over Nickel | Shell Plating Finish Matte | Connector Profile Micro | Configuration Features: Number of Positions 5 | Number of Ports 1 | Contact Features: Contact Mating Area Plating Material Thickness .76 MICM | Contact Current Rating (Max) 1.8 AMP | Contact Mating Area Plating Material Gold | Contact Mating Area Plating Material Thickness 29.52 MICIN | Dimensions: PCB Thickness (Recommended) .8  1. MM | PCB Thickness (Recommended) .031  .039 ", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5-1773464-3&DocType=Data%20Sheet&DocLang=English&PartCntxt=2134441-2&DocFormat=pdf", "1.9 mm"
+END_PART
+
+END.

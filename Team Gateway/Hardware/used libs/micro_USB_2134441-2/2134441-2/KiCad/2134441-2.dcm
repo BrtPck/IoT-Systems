@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2134441-2
+D Body Features: Offset .88 MM | Shell Plating Material Tin over Nickel | Shell Plating Finish Matte | Connector Profile Micro | Configuration Features: Number of Positions 5 | Number of Ports 1 | Contact Features: Contact Mating Area Plating Material Thickness .76 MICM | Contact Current Rating (Max) 1.8 AMP | Contact Mating Area Plating Material Gold | Contact Mating Area Plating Material Thickness 29.52 MICIN | Dimensions: PCB Thickness (Recommended) .8  1. MM | PCB Thickness (Recommended) .031  .039 
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5-1773464-3&DocType=Data%20Sheet&DocLang=English&PartCntxt=2134441-2&DocFormat=pdf
+$ENDCMP
+#
+#End Doc Library

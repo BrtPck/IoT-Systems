@@ -1,0 +1,19 @@
+.2134441-2 :1 ;Body Features: Offset .88 MM | Shell Plating Material Tin over Nickel | Shell Plating Finish Matte | Connector Profile Micro | Configuration Features: Number of Positions 5 | Number of Ports 1 | Contact Features: Contact Mating Area Plating Material Thickness .76 MICM | Contact Current Rating (Max) 1.8 AMP | Contact Mating Area Plating Material Gold | Contact Mating Area Plating Material Thickness 29.52 MICIN | Dimensions: PCB Thickness (Recommended) .8  1. MM | PCB Thickness (Recommended) .031  .039 
+"21344412"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=MH1 7=MH2 8=MH3 9=MH4
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="MH1" 7="MH2" 8="MH3" 9="MH4"
+*MXP 9
+*DFN 2134441-2
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (2134441-2)
+~!Mouser Part Number (571-2134441-2)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2134441-2?qs=kAqyOuzYGe%252Bz%252BAPK%2FThl2g%3D%3D)
+~!Arrow Part Number (2134441-2)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/2134441-2/te-connectivity?region=nac)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5-1773464-3&DocType=Data%20Sheet&DocLang=English&PartCntxt=2134441-2&DocFormat=pdf)
+~!Height (1.9mm)
+~!3D_Model (2134441-2)
+"2134441-2"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 
