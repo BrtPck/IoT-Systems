@@ -1,0 +1,19 @@
+.SIM5051-6-0-18-00-A :1 ;Memory Card Connectors SIM Card ConnectorHinged Type, 6 Pin, SMT, 1.85mm Profile
+SIM5051601800A
+*STM J
+*NGS
+*PNM 1=C1 2=C2 3=C3 4=C5 5=C6 6=C7
+*PLB 1="VCC" 2="RST" 3="CLK" 4="GND" 5="VPP" 6="I/O"
+*MXP 6
+*DFN SIM5051-6-0-18-00-A
+~!Manufacturer_Name (GCT (GLOBAL CONNECTOR TECHNOLOGY))
+~!Manufacturer_Part_Number (SIM5051-6-0-18-00-A)
+~!Mouser Part Number (640-SIM5051601800A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/GCT/SIM5051-6-0-18-00-A?qs=KUoIvG%2F9IlalctivsT92PA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://gct.co/files/drawings/sim5051.pdf?v=26939cdf-9a60-4a6d-ba40-87c2268deb55)
+~!Height (2mm)
+~!3D_Model (SIM5051-6-0-18-00-A)
+SIM5051-6-0-18-00-A
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

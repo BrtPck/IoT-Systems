@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SIM5051_6_0_18_00_A'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "GCT (GLOBAL CONNECTOR TECHNOLOGY)", "SIM5051-6-0-18-00-A" (!) = "", "SIM5051601800A", "Other", "640-SIM5051601800A", "https://www.mouser.co.uk/ProductDetail/GCT/SIM5051-6-0-18-00-A?qs=KUoIvG%2F9IlalctivsT92PA%3D%3D", "", "", "Memory Card Connectors SIM Card ConnectorHinged Type, 6 Pin, SMT, 1.85mm Profile", "https://gct.co/files/drawings/sim5051.pdf?v=26939cdf-9a60-4a6d-ba40-87c2268deb55", "2 mm"
+END_PART
+
+END.

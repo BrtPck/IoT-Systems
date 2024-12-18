@@ -1,0 +1,140 @@
+
+(EDIF
+  (rename &SIM5051_6_0_18_00_A "SIM5051_6_0_18_00_A")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2024 10 27 11 11 56)
+      (dataOrigin "14656252/1521601/2.50/6/3/Connector")
+      (program "SamacSys ECAD Model SIM5051_6_0_18_00_A"
+        (version "1.3"))))
+  (library
+  (rename &SIM5051_6_0_18_00_A "SIM5051_6_0_18_00_A")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition (scale 1 (e 254 -6) (unit DISTANCE)))
+      (userData GRIDRESOLUTION (integer 50 50))
+      (figureGroup DEFAULT (pathWidth 10) (textHeight 100))
+      (figureGroup PROPERTY (pathWidth 10) (textHeight 90))
+      (figureGroup PINNUMBER (pathWidth 10) (textHeight 90))
+      (figureGroup PINNAME (pathWidth 10) (textHeight 90))
+      (figureGroup COMMENT (pathWidth 10) (textHeight 90))
+      (figureGroup PIN (pathWidth 10) (textHeight 90))
+      (figureGroup GRAPHIC (pathWidth 10) (textHeight 100))
+    )
+    (cell
+      (rename &SIM5051_6_0_18_00_A "SIM5051_6_0_18_00_A")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "J")
+          (property (rename PACKAGENAME "PackageName") (string "SIM5051_6_0_18_00_A"))
+          (property (rename ISHETEROGENEOUS "IsHeterogeneous") (string "False"))
+          (property (rename DEVICESINVIEW "DevicesInView") (string "1"))
+          (property (rename DEVICESINPACKAGE "DevicesInPackage") (string "1"))
+          (property (rename DEVICEDESIGNATOR "DeviceDesignator") (string "A"))
+          (property (rename DEVICENUMBERING "DeviceNumbering") (string "Alpha"))
+          (property (rename PCB_32_FOOTPRINT "PCB Footprint") (string "SIM5051601800A"))
+          (property (rename &Manufacturer_Name "Manufacturer_Name") (string "GCT (GLOBAL CONNECTOR TECHNOLOGY)"))
+          (property (rename &Manufacturer_Part_Number "Manufacturer_Part_Number") (string "SIM5051-6-0-18-00-A"))
+          (property (rename &Mouser_Part_Number "Mouser Part Number") (string "640-SIM5051601800A"))
+          (property (rename &Mouser_Price_Stock "Mouser Price/Stock") (string "https://www.mouser.co.uk/ProductDetail/GCT/SIM5051-6-0-18-00-A?qs=KUoIvG%2F9IlalctivsT92PA%3D%3D"))
+          (property (rename &Arrow_Part_Number "Arrow Part Number") (string ""))
+          (property (rename &Arrow_Price_Stock "Arrow Price/Stock") (string ""))
+          (property (rename &Description "Description") (string "Memory Card Connectors SIM Card ConnectorHinged Type, 6 Pin, SMT, 1.85mm Profile"))
+          (property (rename &Datasheet_Link "Datasheet Link") (string "https://gct.co/files/drawings/sim5051.pdf?v=26939cdf-9a60-4a6d-ba40-87c2268deb55"))
+          (property (rename &Height "Height") (string "2 mm"))
+          (property (rename &_60__32_VALUE_32__62_ "Value") (string "SIM5051_6_0_18_00_A"))
+          (property (rename VALUE "Value") (string "Value"))
+          (port
+            (rename &VCC "VCC")
+            (designator "C1")
+            (property (rename ORDER "Order") (string "0") (owner "OrCAD"))
+          )
+          (port
+            (rename &RST "RST")
+            (designator "C2")
+            (property (rename ORDER "Order") (string "1") (owner "OrCAD"))
+          )
+          (port
+            (rename &CLK "CLK")
+            (designator "C3")
+            (property (rename ORDER "Order") (string "2") (owner "OrCAD"))
+          )
+          (port
+            (rename &GND "GND")
+            (designator "C5")
+            (property (rename ORDER "Order") (string "3") (owner "OrCAD"))
+          )
+          (port
+            (rename &VPP "VPP")
+            (designator "C6")
+            (property (rename ORDER "Order") (string "4") (owner "OrCAD"))
+          )
+          (port
+            (rename &I_O "I_O")
+            (designator "C7")
+            (property (rename ORDER "Order") (string "5") (owner "OrCAD"))
+          )
+          (symbol
+            (portImplementation
+              (name &VCC (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 600 -100) (pt 800 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt 800 -100))))
+            )
+            (portImplementation
+              (name &RST (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 600 -200) (pt 800 -200))))
+              (connectLocation (figure GRAPHIC (dot (pt 800 -200))))
+            )
+            (portImplementation
+              (name &CLK (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 600 -300) (pt 800 -300))))
+              (connectLocation (figure GRAPHIC (dot (pt 800 -300))))
+            )
+            (portImplementation
+              (name &GND (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -100) (pt 0 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -100))))
+            )
+            (portImplementation
+              (name &VPP (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -200) (pt 0 -200))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -200))))
+            )
+            (portImplementation
+              (name &I_O (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -300) (pt 0 -300))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -300))))
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 0 0)
+                  (pt 600 0)
+                  (pt 600 -400)
+                  (pt 0 -400)
+                  (pt 0 0)
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 650 130))))
+            (propertyDisplay &_60__32_VALUE_32__62_ (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 650 30))))
+          )
+        )
+      )
+    )
+  )
+)
