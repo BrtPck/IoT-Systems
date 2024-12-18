@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PESD0402_140'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "PESD0402-140" (!) = "", "DIONC1005X43N", "Diodes Chip Non-polarised", "", "", "", "", "TVS Diode Bi-Directional PESD0402-140 40V, SOD-923 2-Pin", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/56453c9e7d16e16b45297983777b3114.pdf", "0.43 mm"
+END_PART
+
+END.

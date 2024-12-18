@@ -1,0 +1,18 @@
+.PESD0402-140 :1 ;TVS Diode Bi-Directional PESD0402-140 40V, SOD-923 2-Pin
+DIONC1005X43N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN PESD0402-140
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (PESD0402-140)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/56453c9e7d16e16b45297983777b3114.pdf)
+~!Height (0.43mm)
+~!3D_Model (PESD0402-140)
+PESD0402-140
+1.1!U 2.1!U 

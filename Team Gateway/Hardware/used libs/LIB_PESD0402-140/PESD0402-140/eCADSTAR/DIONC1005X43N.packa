@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PESD0402-140"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-08-27-09:10:53)
+    (mountForm default
+        (footprintRef "DIONC1005X43N")
+        (spec "System")
+    )
+)

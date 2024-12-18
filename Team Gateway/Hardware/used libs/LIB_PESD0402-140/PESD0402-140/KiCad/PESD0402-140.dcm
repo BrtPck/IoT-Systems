@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PESD0402-140
+D TVS Diode Bi-Directional PESD0402-140 40V, SOD-923 2-Pin
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/56453c9e7d16e16b45297983777b3114.pdf
+$ENDCMP
+#
+#End Doc Library
