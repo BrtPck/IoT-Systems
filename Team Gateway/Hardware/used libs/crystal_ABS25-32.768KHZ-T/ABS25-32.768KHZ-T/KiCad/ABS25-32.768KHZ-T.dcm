@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ABS25-32.768KHZ-T
+D ABRACON - ABS25-32.768KHZ-T - CRYSTAL, 32.768K, 12.5PF CL 8X2.5 SMD
+K
+F https://abracon.com/Resonators/abs25.pdf
+$ENDCMP
+#
+#End Doc Library

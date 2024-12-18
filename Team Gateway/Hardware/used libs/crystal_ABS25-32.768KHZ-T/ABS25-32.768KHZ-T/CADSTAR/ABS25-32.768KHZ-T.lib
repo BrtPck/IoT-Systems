@@ -1,0 +1,18 @@
+.ABS25-32.768KHZ-T :1 ;ABRACON - ABS25-32.768KHZ-T - CRYSTAL, 32.768K, 12.5PF CL 8X2.5 SMD
+ABS2532768KHZT
+*STM Y
+*NGS
+*PLB 1="CRYSTAL_1" 2="GND_1" 3="GND_2" 4="CRYSTAL_2"
+*MXP 4
+*DFN ABS25-32.768KHZ-T
+~!Manufacturer_Name (ABRACON)
+~!Manufacturer_Part_Number (ABS25-32.768KHZ-T)
+~!Mouser Part Number (815-ABS25-32.768KHZT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ABRACON/ABS25-32.768KHZ-T?qs=2xLVn2jvFusfExB%252ByZEnpA%3D%3D)
+~!Arrow Part Number (ABS25-32.768KHZ-T)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/abs25-32.768khz-t/abracon?region=europe)
+~!Link Datasheet (https://abracon.com/Resonators/abs25.pdf)
+~!Height (2.6mm)
+~!3D_Model (ABS25-32.768KHZ-T)
+ABS25-32.768KHZ-T
+1.1!U 2.1!U 3.1!U 4.1!U 

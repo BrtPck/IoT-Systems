@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ABS25_32.768KHZ_T'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ABRACON", "ABS25-32.768KHZ-T" (!) = "", "ABS2532768KHZT", "Other", "815-ABS25-32.768KHZT", "https://www.mouser.co.uk/ProductDetail/ABRACON/ABS25-32.768KHZ-T?qs=2xLVn2jvFusfExB%252ByZEnpA%3D%3D", "ABS25-32.768KHZ-T", "https://www.arrow.com/en/products/abs25-32.768khz-t/abracon?region=europe", "ABRACON - ABS25-32.768KHZ-T - CRYSTAL, 32.768K, 12.5PF CL 8X2.5 SMD", "https://abracon.com/Resonators/abs25.pdf", "2.6 mm"
+END_PART
+
+END.
