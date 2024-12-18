@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=830003000
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=4
+Version=1.5
+Released=2023-07-04 14:20:46
+Downloaded=2024-10-27 10:54:14
+3D=Y

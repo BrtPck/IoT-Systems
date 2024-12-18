@@ -1,0 +1,18 @@
+.830003000 :1 ;32.768 kHz +/-20ppm Crystal 12.5pF 50 kOhms 4-SOJ, 5.5mm pitch 
+"830003000"
+*STM Y
+*NGS
+*PLB 1="CRYSTAL _1" 2="N/C_1" 3="N/C_2" 4="CRYSTAL _2"
+*MXP 4
+*DFN 830003000
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (830003000)
+~!Mouser Part Number (710-830003000)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/830003000?qs=2WXlatMagcFgTyBqolG%2Fpw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.we-online.com/components/products/datasheet/830003000.pdf)
+~!Height (2.5mm)
+~!3D_Model (830003000)
+"830003000"
+1.1!U 2.1!U 3.1!U 4.1!U 
